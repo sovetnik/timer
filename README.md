@@ -14,5 +14,5 @@ rackuo
 ## Usage
 
 After install & rackup, try:
-[for UTC](localhost:8080/time)
-[for UTC & Moscow](localhost:8080/time?Moscow)
+for UTC localhost:8080/time
+for UTC & Moscow localhost:8080/time?Moscow
