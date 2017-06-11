@@ -9,7 +9,7 @@ cd /timer
 gem install rack
 gem install thin
 gem install tzinfo
-rackuo
+rackup
 ```
 ## Usage
 
